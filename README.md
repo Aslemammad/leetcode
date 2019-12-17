@@ -2,6 +2,6 @@
 
 # Welcome to LeetCode!
 
-I solve some questions in **Leetcode.com**, so you can solve with me, too, and add it to my rep.
+I solve some questions in **Leetcode.com**, so you can solve with me (in js), too, and add it to my rep.
 I organized the as Easy, Medium and Hard.
 
